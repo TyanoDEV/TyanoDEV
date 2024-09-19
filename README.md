@@ -51,4 +51,4 @@
   </div>
 
 Credits: [Tyano Antoce](https://github.com/TyanoDEV)
-Last Edited on: 19/09/2024
+<p>Last Edited on: 19/09/2024</p>
