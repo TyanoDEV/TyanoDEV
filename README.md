@@ -211,8 +211,5 @@ If you have any questions about web development, writing mistake-free documentat
 
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
-
-
 Credits: [Tyano Antoce](https://github.com/TyanoDEV)
 Last Edited on: 19/09/2024
