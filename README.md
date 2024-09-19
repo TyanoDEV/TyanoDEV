@@ -46,11 +46,9 @@
   </br></br>
   
 <div align="right">
-<a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </div>
   </div>
 
-----
 Credits: [Tyano Antoce](https://github.com/TyanoDEV)
 Last Edited on: 19/09/2024
