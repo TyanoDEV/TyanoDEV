@@ -47,7 +47,7 @@
   
 <div align="right">
 <a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
-  <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
   </div>
   </div>
 
