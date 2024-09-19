@@ -1,4 +1,4 @@
-<p align = center ><img src="[https://imgur.com/mJ0Zqge]"> </p>
+<p align = center ><img src="https://r2.fivemanage.com/F3r4D2O18hDeIVgQDi3NN/images/Proyecto nuevo.png"> </p>
 
 <div>
 
