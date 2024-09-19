@@ -47,13 +47,10 @@
   
 <div align="right">
 <a href="https://www.pixiv.net/en/users/35069640">Image by 前髪</a>
+  <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
   </div>
   </div>
 
 ----
-<br>
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
----
 Credits: [Tyano Antoce](https://github.com/TyanoDEV)
 Last Edited on: 19/09/2024
