@@ -207,7 +207,7 @@ If you have any questions about web development, writing mistake-free documentat
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/8tlidmmma0dvw6c542x4gbgq5)
 
 ---
 
