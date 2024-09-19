@@ -51,17 +51,5 @@
   </div>
 
 ------
-Credit: [zillastar](https://github.com/zillastar)
-
-Last Edited on: 12/11/2022
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/8tlidmmma0dvw6c542x4gbgq5)
-
----
-
 Credits: [Tyano Antoce](https://github.com/TyanoDEV)
 Last Edited on: 19/09/2024
