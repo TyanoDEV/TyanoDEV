@@ -1,4 +1,4 @@
-<p align="right"> <img src="[https://gpvc.arturio.dev/austinae](https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png)" alt="Profile count" /> </p>
+<p align="right"> <img src="[https://gpvc.arturio.dev/austinae](https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png)" alt="My Profile" /> </p>
 
 <div align="center">
 
