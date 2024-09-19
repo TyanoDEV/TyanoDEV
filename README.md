@@ -1,4 +1,4 @@
-<p align="right"> <img src="[https://gpvc.arturio.dev/austinae](https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png)" alt="My Profile" /> </p>
+<p align="right"> <img src="[https://gpvc.arturio.dev/austinae]([https://user-images.githubusercontent.com/44261381/209237088-3bbb1512-7486-4c36-afd8-bb60077d067b.png](https://avatars.githubusercontent.com/u/109390890?s=400&u=c344c772da8ff3673907699ba72801cd7585db95&v=4))" alt="My Profile" /> </p>
 
 <div align="center">
 
